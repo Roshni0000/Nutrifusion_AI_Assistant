@@ -1,5 +1,8 @@
 # Nutrifusion_AI_Assistant
 An AI-powered health and nutrition companion built with Streamlit and Google Gemini 3.5 Flash. Features personalized 7-day meal planning, real-time multimodal food image analysis, and expert health insights.
+
+🚀Live Demo: Try NutriFusion AI Here!](https://nutrifusionaiassistant-xpbwpvfcg3iew4fyw2fcxy.streamlit.app)
+
 Title: AI-Powered Health Management System with Personalized Nutrition & Fitness Recommendations.
 
 Problem Statement: 

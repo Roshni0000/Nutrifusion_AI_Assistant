@@ -78,3 +78,11 @@ Achievements:
 
 Successfully integrated Gemini AI for food/health analysis.
 
+## 💻 How to Run Locally
+
+1. **Clone the repository:** Download the project to your computer using `git clone https://github.com/YourUsername/NutriFusion-AI.git`.
+2. **Install dependencies:** Open your terminal in the project folder and run `pip install -r requirements.txt`.
+3. **Create a secrets file:** Create a new file named exactly `.env` in the main project folder.
+4. **Add your API key:** Open the `.env` file and paste your Gemini key inside: `GOOGLE_API_KEY="your_api_key_here"`.
+5. **Launch the app:** Start the local server by running `python -m streamlit run FinalNutrition.py` in your terminal.
+
